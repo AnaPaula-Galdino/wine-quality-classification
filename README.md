@@ -2,7 +2,7 @@
 
 Classificação binária da qualidade de vinhos a partir de características físico-químicas, desenvolvida para o **Tech Challenge da Fase 2 — POSTECH (Data Analytics / DTAT)**.
 
-**Autora:** Ana Paula Corrêa Galdino — RM 370461
+**Nome:** Ana Paula Corrêa Galdino — RM 370461
 
 **Repositório:** https://github.com/AnaPaula-Galdino/wine-quality-classification
 
