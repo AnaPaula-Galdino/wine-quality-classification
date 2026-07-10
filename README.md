@@ -5,6 +5,8 @@ Classificação binária da qualidade de vinhos a partir de características fí
 **Nome:** Ana Paula Corrêa Galdino — RM 370461
 
 **Repositório:** https://github.com/AnaPaula-Galdino/wine-quality-classification
+**Video Youtube:** https://youtu.be/ABTXgxvo298?si=0s-APsMq2DJscAz6
+
 
 ## O problema
 
